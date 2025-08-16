@@ -17,3 +17,5 @@ Objectives:
 5. Perform sentiment analysis on product reviews to assess customer perception.
 
 6. Create an interactive Tableau dashboard to present key insights.
+
+![alt text](<6 Screenshot of the Dashboard.png>)
