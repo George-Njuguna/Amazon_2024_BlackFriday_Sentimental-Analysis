@@ -1,21 +1,65 @@
-# **BLACK FRIDAY 2024 AMAZON DEAL ANALYSIS**
-___
 
-This project aims to analyze Black Friday 2024 deals scraped from Amazon, containing over 1,000 real-world products. The data was collected through web scraping and includes product names, prices, discounts, ratings, and user reviews. Alongside exploratory data analysis, the project incorporates sentiment analysis of product reviews and price trend evaluation across different categories.
+# 🛒 Black Friday 2024 Amazon Deals Analysis
 
-The final outcome will be a comprehensive Tableau dashboard to visualize these insights for effective interpretation and decision-making.
+##  Project Overview
 
-Objectives:
-1. Analyze price distribution and identify the most and least expensive deals.
+This project focuses on analyzing **Black Friday 2024 deals scraped from Amazon**, comprising over **1,000 real-world products**. The dataset includes **product names, prices, discounts, ratings, and user reviews**, offering a rich source for both exploratory and predictive analysis.
 
-2. Evaluate discount patterns across various product categories.
+The project combines **exploratory data analysis (EDA)**, **sentiment analysis of reviews**, and **price trend evaluation across categories** to uncover key patterns. Finally, insights are presented through an **interactive Tableau dashboard** designed for clear interpretation and decision-making.
 
-3. Identify trends and correlations between ratings, price, and sentiment.
+---
 
-4. Predict the discounted price using relevant product features.
+##  Objectives
 
-5. Perform sentiment analysis on product reviews to assess customer perception.
+*  **Price Analysis** – Study price distributions and highlight the most vs. least expensive deals.
+*  **Discount Patterns** – Evaluate discount structures across different product categories.
+*  **Ratings & Trends** – Identify relationships between product ratings, price levels, and review sentiment.
+*  **Price Prediction** – Build a predictive model to estimate discounted prices using product features.
+*  **Sentiment Analysis** – Analyze customer reviews to assess consumer perceptions of products.
+*  **Visualization** – Develop an interactive Tableau dashboard to showcase findings.
 
-6. Create an interactive Tableau dashboard to present key insights.
+---
 
+##  Features
+
+* End-to-end **data scraping** pipeline from Amazon.
+* **Data cleaning and transformation** for structured analysis.
+* In-depth **exploratory data analysis** (price trends, discounts, and category insights).
+* **Machine learning model** to predict discounted prices.
+* **Natural Language Processing (NLP)** for review sentiment analysis.
+* **Tableau dashboard** for interactive exploration of results.
+
+---
+
+##  Tech Stack
+
+* **Languages:** Python (Pandas, NumPy, Scikit-learn, NLTK/TextBlob)
+* **Data Collection:** BeautifulSoup / Requests
+* **Database (optional):** PostgreSQL (structured storage for products data)
+* **Visualization:** Tableau, Matplotlib, Seaborn
+* **Machine Learning:** Scikit-learn (Regression models, feature importance)
+
+---
+
+##  Tableau Dashboard
 ![alt text](<6 Screenshot of the Dashboard.png>)
+
+
+---
+
+##  Project Workflow
+
+1. **Web Scraping** – Extract product details from Amazon Black Friday deals.
+2. **Data Cleaning & Preprocessing** – Handle missing data, format prices/discounts, and normalize categories.
+3. **Exploratory Data Analysis** – Analyze price distribution, discount ranges, and rating trends.
+4. **Sentiment Analysis** – Classify reviews as positive, neutral, or negative.
+5. **Predictive Modeling** – Train models to predict discounted prices from features.
+6. **Visualization** – Build and publish an interactive Tableau dashboard.
+
+---
+
+⭐ *If you find this project useful or interesting, please consider giving it a star!*
+
+---
+
+
