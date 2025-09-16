@@ -42,6 +42,8 @@ The project combines **exploratory data analysis (EDA)**, **sentiment analysis o
 ---
 
 ##  Tableau Dashboard
+![alt text](<Screenshot 2025-09-16 104713.png>)
+![alt text](<Screenshot 2025-09-16 104604.png>)
 ![alt text](<6 Screenshot of the Dashboard.png>)
 
 
