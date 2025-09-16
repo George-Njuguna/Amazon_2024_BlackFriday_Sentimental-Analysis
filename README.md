@@ -3,7 +3,7 @@
 
 ##  Project Overview
 
-This project focuses on analyzing **Black Friday 2024 deals scraped from Amazon**, comprising over **1,000 real-world products**. The dataset includes **product names, prices, discounts, ratings, and user reviews**, offering a rich source for both exploratory and predictive analysis.
+This project focuses on analyzing **Black Friday 2024 deals scraped from Amazon**, comprising over **2,000 real-world products**. The dataset includes **product names, prices, discounts, ratings, and user reviews**, offering a rich source for both exploratory and predictive analysis.
 
 The project combines **exploratory data analysis (EDA)**, **sentiment analysis of reviews**, and **price trend evaluation across categories** to uncover key patterns. Finally, insights are presented through an **interactive Tableau dashboard** designed for clear interpretation and decision-making.
 
